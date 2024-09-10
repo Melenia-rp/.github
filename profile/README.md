@@ -1,10 +1,10 @@
-##🌍 Melenia - FiveM RP Server
+## 🌍 Melenia - FiveM RP Server
 Welcome to Melenia! This is where the magic happens behind the scenes of our RP server 🎭. Everything you see in-game is crafted right here by the team 🛠️.
 
-###🔥 What's Melenia?
+### 🔥 What's Melenia?
 Melenia is an immersive RP server built by Thomas. We’re all about creating cool, fun, and interactive gameplay for everyone who hops in! 🚗💼💰
 
-###⚙️ What's Inside?
+### ⚙️ What's Inside?
 Only the good stuff:
 
 - 📈 A dynamic economy that makes the world go round.
