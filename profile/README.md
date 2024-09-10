@@ -1,12 +1,18 @@
-## Hi there 👋
+🌍 Melenia - FiveM RP Server
+Welcome to Melenia! This is where the magic happens behind the scenes of our RP server 🎭. Everything you see in-game is crafted right here by the team 🛠️.
 
-<!--
+🔥 What's Melenia?
+Melenia is an immersive RP server built by Thomas. We’re all about creating cool, fun, and interactive gameplay for everyone who hops in! 🚗💼💰
 
-**Here are some ideas to get you started:**
+⚙️ What's Inside?
+Only the good stuff:
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+📈 A dynamic economy that makes the world go round.
+🏡 House robberies and other sneaky things.
+🚘 Fully-fledged vehicle systems (fuel up before your next joyride).
+🎮 Custom scripts that make everything run smoothly.
+🤝 Who’s It For?
+This repo is for the Melenia staff only. It's the brains behind the operation. If you’re looking to contribute, sorry! It’s a closed party 🛑.
+
+🎯 Stay Tuned!
+The team’s always working on new features, tweaks, and updates. Keep an eye out for what’s next 👀.
